@@ -1,7 +1,3 @@
-Certainly, here is the **English version** of your enhanced `README.md`, fully aligned with your profile as a primary school teacher, full stack JavaScript developer (bootcamp graduate), and self-taught Linux server administrator, with current experience in Ubuntu and future goals in Red Hat:
-
----
-
 # multix20 – Sysadmin & Full Stack Developer Portfolio
 
 [![Platform: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
