@@ -1,4 +1,4 @@
-# multix20 – Sysadmin & Full Stack Developer Portfolio
+# 🚀 multix20 – Sysadmin & Full Stack Developer Portfolio
 
 [![Platform: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
 [![Focus: Ubuntu Server](https://img.shields.io/badge/Focus-Ubuntu%20Server-orange?logo=ubuntu)](https://ubuntu.com/)
@@ -7,80 +7,101 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
-**Juan Pablo Monsalve Suazo | multix20**
-Primary School Teacher | Full Stack Developer (JS) | Self-taught Linux SysAdmin
+**Juan Pablo Monsalve Suazo**
+📚 *Primary School Teacher* | 💻 *Full Stack Developer (JS)* | 🐧 *Self-taught Linux SysAdmin*
 
-I'm a passionate educator with a deep interest in technology and autonomous learning. I completed a full stack development bootcamp focused on **JavaScript, React, Node.js, and databases**, and have independently developed strong skills in **Linux system administration**, particularly using **Ubuntu Server**.
+I'm a passionate educator and tech enthusiast from Chile, blending classroom experience with modern IT practices. After completing a full stack bootcamp focused on **JavaScript**, I've deepened my skills in **Linux server administration**, particularly with **Ubuntu Server**, and I’m on track toward specialization in **Red Hat Enterprise Linux**.
 
-My professional journey bridges education and IT, where I aim to bring meaningful impact through technology. I’m currently deepening my knowledge in server automation, network management, and I aspire to work with **Red Hat Enterprise Linux** environments in the near future.
-
-This repository is a showcase of my learning path, hands-on projects, and practical tools — all created with the purpose of making technology more accessible and purposeful.
+💡 I believe in **technology with purpose**, especially when applied to education, automation, and open knowledge.
 
 ---
 
-## Highlights
+## 🌟 Highlights
 
-* **Ubuntu Server Deployment Toolkit**
-  Scripts, configurations, and best practices for creating reliable environments for testing, educational, or semi-production use.
+🔧 **Ubuntu Server Deployment Toolkit**
+Scripts & best practices for building stable, functional servers for learning or production.
 
-* **Ansible Automation**
-  Sample playbooks for setting up services, repetitive task automation, and remote provisioning.
+🛠️ **Ansible Automation**
+Reusable playbooks to automate installations, services, and provisioning tasks.
 
-* **PXE Boot & Syslinux Exploration**
-  Introductory work with PXE environments and preboot execution setups, targeting lab and learning scenarios.
-
----
-
-## Featured Projects
-
-* [`ubuntu-server-setup`](https://github.com/multix20/ubuntu-server-setup)
-  Scripted guide for provisioning a secure Ubuntu server: SSH, updates, firewall, user management, and more.
-
-* [`ansible-educational-lab`](https://github.com/multix20/ansible-educational-lab)
-  Ansible playbooks for automating lightweight and educational server setups.
-
-* [`linux-hardening-basics`](https://github.com/multix20/linux-hardening-basics)
-  Practical checklist and scripts for basic hardening of Linux servers — designed for educators and beginner sysadmins.
+📡 **PXE Boot & Syslinux Exploration**
+First steps toward remote network boot environments using Syslinux and PXE.
 
 ---
 
-## Technical Skills
+## 📁 Featured Projects
 
-* **Front-End:** HTML, CSS, JavaScript, React
-* **Back-End:** Node.js, Express.js, MongoDB, PostgreSQL
-* **Linux SysAdmin:** Ubuntu Server, CLI management, user roles, service configuration
-* **Automation:** Bash scripting, beginner-level Ansible
-* **DevOps Essentials:** Git, networking basics, local deployments
-
----
-
-## Education
-
-* **Degree in Primary Education**
-* **Full Stack JavaScript Bootcamp – Desafío Latam**
-* **Self-taught in Linux systems administration**
-* Currently studying for future **Red Hat certification**
+| Project                                                                          | Description                                                                           |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [`ubuntu-server-setup`](https://github.com/multix20/ubuntu-server-setup)         | 🧰 A quick-start Ubuntu server provisioning script with SSH, UFW, users, and updates. |
+| [`ansible-educational-lab`](https://github.com/multix20/ansible-educational-lab) | 📘 Ansible playbooks for automating lightweight educational server setups.            |
+| [`linux-hardening-basics`](https://github.com/multix20/linux-hardening-basics)   | 🛡️ A checklist and basic scripts to secure a Linux server — ideal for beginners.     |
 
 ---
 
-## Contact
+## 🛠️ Technical Stack
 
-* 🔗 [GitHub](https://github.com/multix20)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(please update this link)*
-* 📧 Email: [jp.devtravel@gmail.com](mailto:jp.devtravel@gmail.com)
+### 🧑‍💻 **Development**
+
+* `HTML` • `CSS` • `JavaScript` • `React`
+* `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL`
+
+### 🐧 **Linux Administration**
+
+* Ubuntu Server (🟠)
+* CLI proficiency, system services, and remote configuration
+* Basic security hardening & shell scripting (🖥️)
+
+### 🤖 **Automation & Tools**
+
+* Ansible (🔁)
+* Bash Scripting (📝)
+* Git & GitHub (🔧)
+* PXE & Syslinux (🌐)
 
 ---
 
-## License
+## 🎓 Education & Learning Path
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+* 👨‍🏫 **Degree in Primary Education**
+* 🎓 **Full Stack JavaScript Bootcamp – Desafío Latam**
+* 📚 **Self-taught Linux system administration**
+* 🔜 Currently preparing for **Red Hat Certification (RHCSA)**
 
 ---
 
-> *"To educate is to plant curiosity. To manage systems is to maintain the infrastructure where that curiosity can grow."*
+## 📬 Contact
+
+| Platform    | Link                                                                                          |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| 🔗 GitHub   | [github.com/multix20](https://github.com/multix20)                                            |
+| 💼 LinkedIn | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) *(update this link)* |
+| ✉️ Email    | [jp.devtravel@gmail.com](mailto:jp.devtravel@gmail.com)                                       |
 
 ---
 
-If you’d like, I can also provide a version of this file ready to upload as `README.md` or assist you in formatting it properly in your GitHub repository.
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+> *"To educate is to plant curiosity. To manage systems is to maintain the infrastructure where that curiosity can grow."* 🌱🖥️
+
+---
+
+### ✅ Optional Improvements:
+
+Si deseas, puedes añadir:
+
+* Una **imagen de cabecera** tipo banner usando Markdown:
+
+  ```markdown
+  ![Banner](./assets/banner.png)
+  ```
+* Un **diagrama de stack** en Mermaid o imagen SVG.
+* Un botón de contacto directo a LinkedIn o email.
+
+¿Te gustaría que lo prepare también con ese banner y botones, o prefieres mantenerlo simple por ahora?
