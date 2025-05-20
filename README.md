@@ -1,32 +1,69 @@
-# 👋 ¡Hola! Soy Juan Pablo Monsalve Suazo
+# multix20 - Sysadmin & Linux Portfolio
 
-🧑‍💻 **SysAdmin Linux | Dev en formación | Apasionado por la tecnología, la seguridad y la automatización**
+[![Platform: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
+[![Specialist: Syslinux](https://img.shields.io/badge/Specialist-Syslinux-blue?logo=linux)](https://www.syslinux.org/)
+[![Automation: Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?logo=ansible)](https://www.ansible.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Soy un profesional autodidacta con una sólida base en administración de sistemas Linux, especialmente enfocado en la automatización de tareas, seguridad de servidores, respaldo de datos y despliegue de servicios mediante herramientas libres. Actualmente, complemento mi perfil técnico con estudios en desarrollo web Full Stack y cursos avanzados en administración de servidores y scripting Bash.
+## About Me
 
-## 🛠️ Tecnologías y herramientas
+**multix20**  
+Sysadmin | Red Hat Specialist | Syslinux & PXE Expert
 
-- 🐧 Linux Servers: Ubuntu, Debian, CentOS, systemd, UFW
-- 🧪 Automatización: Bash, cron, systemctl, rsync
-- 🌐 Servicios: NGINX, Apache, PostgreSQL, MySQL, Docker
-- 🔍 Monitoreo: journalctl, htop, logrotate, fail2ban
-- 🛠️ Desarrollo: HTML, CSS, JavaScript, Node.js, Git
+I am a passionate Linux systems administrator with solid experience in Red Hat-based environments. I specialize in network and server automation, provisioning, and scalable deployments using Syslinux, PXE, and Ansible.
 
-## 🚀 Proyectos destacados
+---
 
-📌 [auto-backup-rsync]  
-Script automatizado para respaldos programados con `rsync`.
+## Highlights
 
-📌 [nginx-config-templates]  
-Configuraciones optimizadas de NGINX para sitios seguros.
+- **Syslinux RedHat Toolkit**  
+  Scripts, automation, and guides for deploying Syslinux and PXE on Red Hat servers.  
+  [See project](https://github.com/multix20/syslinux-redhat-toolkit)
 
-## 🎯 Objetivos actuales
+- **Network Boot Automation**  
+  Ansible playbooks and Bash scripts for rapid provisioning of network-bootable environments.
 
-- Certificación LPIC-1 (en curso)
-- Dominio avanzado de Bash y servicios web
-- Integración de conocimientos de backend y administración de servidores
+- **Linux Server Management**  
+  Best practices, troubleshooting, and robust configurations for enterprise-grade Linux servers.
 
-## 📫 Contacto
+---
 
-- 📧 jp.devtravel@gmail.com
-- 🌐 multix.cl (próximamente)
+## Featured Projects
+
+- [`syslinux-redhat-toolkit`](https://github.com/multix20/syslinux-redhat-toolkit)  
+  Turnkey toolkit for Syslinux deployments on RHEL/CentOS/AlmaLinux/RockyLinux.
+
+- [`ansible-pxe-provision`](https://github.com/multix20/ansible-pxe-provision)  
+  Ansible roles and playbooks to automate PXE server setup and maintenance.
+
+- [`linux-server-hardening`](https://github.com/multix20/linux-server-hardening)  
+  Scripts and guides for securing Red Hat-based systems.
+
+---
+
+## Skills
+
+- Red Hat Enterprise Linux, CentOS, AlmaLinux, Rocky Linux
+- Syslinux, PXE, network boot provisioning
+- Automation with Ansible & Bash
+- Server hardening & security
+- Troubleshooting, documentation, and best practices
+
+---
+
+## Contact
+
+- [GitHub](https://github.com/multix20)
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- Email: tu.email@ejemplo.com
+
+---
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+> **¿Prefieres Español?**  
+> [README (Español)](README_es.md)
