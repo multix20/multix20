@@ -1,0 +1,32 @@
+# 👋 ¡Hola! Soy Juan Pablo Monsalve Suazo
+
+🧑‍💻 **SysAdmin Linux | Dev en formación | Apasionado por la tecnología, la seguridad y la automatización**
+
+Soy un profesional autodidacta con una sólida base en administración de sistemas Linux, especialmente enfocado en la automatización de tareas, seguridad de servidores, respaldo de datos y despliegue de servicios mediante herramientas libres. Actualmente, complemento mi perfil técnico con estudios en desarrollo web Full Stack y cursos avanzados en administración de servidores y scripting Bash.
+
+## 🛠️ Tecnologías y herramientas
+
+- 🐧 Linux Servers: Ubuntu, Debian, CentOS, systemd, UFW
+- 🧪 Automatización: Bash, cron, systemctl, rsync
+- 🌐 Servicios: NGINX, Apache, PostgreSQL, MySQL, Docker
+- 🔍 Monitoreo: journalctl, htop, logrotate, fail2ban
+- 🛠️ Desarrollo: HTML, CSS, JavaScript, Node.js, Git
+
+## 🚀 Proyectos destacados
+
+📌 [auto-backup-rsync]  
+Script automatizado para respaldos programados con `rsync`.
+
+📌 [nginx-config-templates]  
+Configuraciones optimizadas de NGINX para sitios seguros.
+
+## 🎯 Objetivos actuales
+
+- Certificación LPIC-1 (en curso)
+- Dominio avanzado de Bash y servicios web
+- Integración de conocimientos de backend y administración de servidores
+
+## 📫 Contacto
+
+- 📧 jp.devtravel@gmail.com
+- 🌐 multix.cl (próximamente)
