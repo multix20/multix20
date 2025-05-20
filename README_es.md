@@ -1,69 +1,88 @@
-# multix20 - Portafolio de Sysadmin & Linux
+Aquí tienes una versión mejorada y realista de tu README, adaptada a tu perfil como **profesor de primaria**, **desarrollador full stack en JavaScript** con formación en bootcamp, y **autodidacta en servidores Linux (especialmente Ubuntu y proyectando a Red Hat)**. He conservado el enfoque profesional, pero lo he hecho más auténtico y coherente con tu trayectoria:
+
+---
+
+# multix20 - Portafolio de Sysadmin & Desarrollador Full Stack
 
 [![Plataforma: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
-[![Especialista: Syslinux](https://img.shields.io/badge/Specialist-Syslinux-blue?logo=linux)](https://www.syslinux.org/)
+[![Especialidad: Ubuntu Server](https://img.shields.io/badge/Focus-Ubuntu%20Server-orange?logo=ubuntu)](https://ubuntu.com/)
 [![Automatización: Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?logo=ansible)](https://www.ansible.com/)
 [![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+---
+
 ## Sobre mí
 
-**multix20**  
-Sysadmin | Especialista en Red Hat | Experto en Syslinux & PXE
+**Juan Pablo Monsalve Suazo | multix20**
+Profesor de educación básica | Full Stack Developer (JS) | SysAdmin Linux autodidacta
 
-Soy un administrador de sistemas Linux apasionado, con sólida experiencia en entornos basados en Red Hat. Me especializo en automatización de servidores y redes, aprovisionamiento y despliegues escalables usando Syslinux, PXE y Ansible.
+Soy docente de formación, con una fuerte vocación por la tecnología y el aprendizaje autodidacta. He realizado un bootcamp de desarrollo web full stack especializado en **JavaScript, React, Node.js y bases de datos**. Paralelamente, he explorado con profundidad el mundo de **los sistemas Linux**, enfocándome en **servidores Ubuntu**, automatización y administración de redes, con el objetivo de proyectar mis habilidades hacia el ecosistema empresarial de **Red Hat**.
+
+Este repositorio reúne parte de mi proceso formativo, experimentos, proyectos de infraestructura y recursos que desarrollo con una perspectiva clara: **tecnología con propósito**, aplicada al mundo educativo y profesional.
 
 ---
 
 ## Destacados
 
-- **Syslinux RedHat Toolkit**  
-  Scripts, automatización y guías para desplegar Syslinux y PXE en servidores Red Hat.  
-  [Ver proyecto](https://github.com/multix20/syslinux-redhat-toolkit)
+* **Despliegue de servidores Ubuntu con enfoque empresarial**
+  Configuraciones, scripts y buenas prácticas para ambientes de pruebas, educativos y semi-productivos.
 
-- **Automatización de Arranque por Red**  
-  Playbooks de Ansible y scripts Bash para el aprovisionamiento rápido de entornos con arranque PXE.
+* **Automatización con Ansible**
+  Uso de playbooks para configuración de servicios, tareas repetitivas y aprovisionamiento remoto.
 
-- **Gestión de Servidores Linux**  
-  Buenas prácticas, troubleshooting y configuraciones robustas para servidores Linux empresariales.
+* **Exploración de Syslinux & PXE**
+  Primeros experimentos en arranque por red y entornos sin intervención manual (preboot execution).
 
 ---
 
 ## Proyectos Destacados
 
-- [`syslinux-redhat-toolkit`](https://github.com/multix20/syslinux-redhat-toolkit)  
-  Toolkit completo para despliegues de Syslinux en RHEL/CentOS/AlmaLinux/RockyLinux.
+* [`ubuntu-server-setup`](https://github.com/multix20/ubuntu-server-setup)
+  Script para configurar un servidor Ubuntu desde cero: SSH, actualizaciones, firewall, usuarios y más.
 
-- [`ansible-pxe-provision`](https://github.com/multix20/ansible-pxe-provision)  
-  Roles y playbooks de Ansible para automatizar la configuración y mantenimiento de servidores PXE.
+* [`ansible-educational-lab`](https://github.com/multix20/ansible-educational-lab)
+  Playbooks de ejemplo para automatizar laboratorios educativos y servidores ligeros.
 
-- [`linux-server-hardening`](https://github.com/multix20/linux-server-hardening)  
-  Scripts y guías para el endurecimiento de sistemas basados en Red Hat.
+* [`linux-hardening-basics`](https://github.com/multix20/linux-hardening-basics)
+  Buenas prácticas iniciales para asegurar un servidor Linux orientado a principiantes y educadores.
 
 ---
 
-## Habilidades
+## Habilidades Técnicas
 
-- Red Hat Enterprise Linux, CentOS, AlmaLinux, Rocky Linux
-- Syslinux, PXE, aprovisionamiento de arranque por red
-- Automatización con Ansible & Bash
-- Hardening y seguridad de servidores
-- Resolución de problemas, documentación y mejores prácticas
+* **Front-End:** HTML, CSS, JavaScript, React
+* **Back-End:** Node.js, Express.js, MongoDB, PostgreSQL
+* **SysAdmin Linux:** Ubuntu Server, manejo de terminal, usuarios, servicios
+* **Automatización:** Bash scripting, Ansible básico
+* **DevOps inicial:** Configuración de red, control de versiones con Git, despliegue de proyectos
+
+---
+
+## Formación
+
+* **Profesor de Educación Básica**
+* **Bootcamp Full Stack JavaScript — Desafío Latam**
+* **Formación autodidacta en administración de servidores Linux**
+* Actualmente estudiando para certificarme en **Red Hat Enterprise Linux**
 
 ---
 
 ## Contacto
 
-- [GitHub](https://github.com/multix20)
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- Correo: tu.email@ejemplo.com
+* 🔗 [GitHub](https://github.com/multix20)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) *(actualiza este enlace)*
+* 📧 Correo: [jp.devtravel@gmail.com](mailto:jp.devtravel@gmail.com)
 
 ---
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto se distribuye bajo la Licencia MIT. Para más información, revisa el archivo [LICENSE](LICENSE).
 
 ---
 
-> **¿Prefieres inglés?**  
-> [README (English)](README.md)
+> *“Educar es sembrar curiosidad. Administrar sistemas es mantener la infraestructura donde esa curiosidad puede florecer.”*
+
+---
+
+Si deseas, puedo prepararte también la versión en inglés para que mantengas ambas. ¿Te gustaría incluir también una imagen o diagrama de tu stack tecnológico en el README?
