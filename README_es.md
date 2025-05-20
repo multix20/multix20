@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada y realista de tu README, adaptada a tu perfil como **profesor de primaria**, **desarrollador full stack en JavaScript** con formación en bootcamp, y **autodidacta en servidores Linux (especialmente Ubuntu y proyectando a Red Hat)**. He conservado el enfoque profesional, pero lo he hecho más auténtico y coherente con tu trayectoria:
-
----
-
 # multix20 - Portafolio de Sysadmin & Desarrollador Full Stack
 
 [![Plataforma: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
@@ -85,4 +81,3 @@ Este proyecto se distribuye bajo la Licencia MIT. Para más información, revisa
 
 ---
 
-Si deseas, puedo prepararte también la versión en inglés para que mantengas ambas. ¿Te gustaría incluir también una imagen o diagrama de tu stack tecnológico en el README?
