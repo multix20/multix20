@@ -1,69 +1,90 @@
-# multix20 - Sysadmin & Linux Portfolio
+Certainly, here is the **English version** of your enhanced `README.md`, fully aligned with your profile as a primary school teacher, full stack JavaScript developer (bootcamp graduate), and self-taught Linux server administrator, with current experience in Ubuntu and future goals in Red Hat:
+
+---
+
+# multix20 – Sysadmin & Full Stack Developer Portfolio
 
 [![Platform: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
-[![Specialist: Syslinux](https://img.shields.io/badge/Specialist-Syslinux-blue?logo=linux)](https://www.syslinux.org/)
+[![Focus: Ubuntu Server](https://img.shields.io/badge/Focus-Ubuntu%20Server-orange?logo=ubuntu)](https://ubuntu.com/)
 [![Automation: Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?logo=ansible)](https://www.ansible.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+---
+
 ## About Me
 
-**multix20**  
-Sysadmin | Red Hat Specialist | Syslinux & PXE Expert
+**Juan Pablo Monsalve Suazo | multix20**
+Primary School Teacher | Full Stack Developer (JS) | Self-taught Linux SysAdmin
 
-I am a passionate Linux systems administrator with solid experience in Red Hat-based environments. I specialize in network and server automation, provisioning, and scalable deployments using Syslinux, PXE, and Ansible.
+I'm a passionate educator with a deep interest in technology and autonomous learning. I completed a full stack development bootcamp focused on **JavaScript, React, Node.js, and databases**, and have independently developed strong skills in **Linux system administration**, particularly using **Ubuntu Server**.
+
+My professional journey bridges education and IT, where I aim to bring meaningful impact through technology. I’m currently deepening my knowledge in server automation, network management, and I aspire to work with **Red Hat Enterprise Linux** environments in the near future.
+
+This repository is a showcase of my learning path, hands-on projects, and practical tools — all created with the purpose of making technology more accessible and purposeful.
 
 ---
 
 ## Highlights
 
-- **Syslinux RedHat Toolkit**  
-  Scripts, automation, and guides for deploying Syslinux and PXE on Red Hat servers.  
-  [See project](https://github.com/multix20/syslinux-redhat-toolkit)
+* **Ubuntu Server Deployment Toolkit**
+  Scripts, configurations, and best practices for creating reliable environments for testing, educational, or semi-production use.
 
-- **Network Boot Automation**  
-  Ansible playbooks and Bash scripts for rapid provisioning of network-bootable environments.
+* **Ansible Automation**
+  Sample playbooks for setting up services, repetitive task automation, and remote provisioning.
 
-- **Linux Server Management**  
-  Best practices, troubleshooting, and robust configurations for enterprise-grade Linux servers.
+* **PXE Boot & Syslinux Exploration**
+  Introductory work with PXE environments and preboot execution setups, targeting lab and learning scenarios.
 
 ---
 
 ## Featured Projects
 
-- [`syslinux-redhat-toolkit`](https://github.com/multix20/syslinux-redhat-toolkit)  
-  Turnkey toolkit for Syslinux deployments on RHEL/CentOS/AlmaLinux/RockyLinux.
+* [`ubuntu-server-setup`](https://github.com/multix20/ubuntu-server-setup)
+  Scripted guide for provisioning a secure Ubuntu server: SSH, updates, firewall, user management, and more.
 
-- [`ansible-pxe-provision`](https://github.com/multix20/ansible-pxe-provision)  
-  Ansible roles and playbooks to automate PXE server setup and maintenance.
+* [`ansible-educational-lab`](https://github.com/multix20/ansible-educational-lab)
+  Ansible playbooks for automating lightweight and educational server setups.
 
-- [`linux-server-hardening`](https://github.com/multix20/linux-server-hardening)  
-  Scripts and guides for securing Red Hat-based systems.
+* [`linux-hardening-basics`](https://github.com/multix20/linux-hardening-basics)
+  Practical checklist and scripts for basic hardening of Linux servers — designed for educators and beginner sysadmins.
 
 ---
 
-## Skills
+## Technical Skills
 
-- Red Hat Enterprise Linux, CentOS, AlmaLinux, Rocky Linux
-- Syslinux, PXE, network boot provisioning
-- Automation with Ansible & Bash
-- Server hardening & security
-- Troubleshooting, documentation, and best practices
+* **Front-End:** HTML, CSS, JavaScript, React
+* **Back-End:** Node.js, Express.js, MongoDB, PostgreSQL
+* **Linux SysAdmin:** Ubuntu Server, CLI management, user roles, service configuration
+* **Automation:** Bash scripting, beginner-level Ansible
+* **DevOps Essentials:** Git, networking basics, local deployments
+
+---
+
+## Education
+
+* **Degree in Primary Education**
+* **Full Stack JavaScript Bootcamp – Desafío Latam**
+* **Self-taught in Linux systems administration**
+* Currently studying for future **Red Hat certification**
 
 ---
 
 ## Contact
 
-- [GitHub](https://github.com/multix20)
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+* 🔗 [GitHub](https://github.com/multix20)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(please update this link)*
+* 📧 Email: [jp.devtravel@gmail.com](mailto:jp.devtravel@gmail.com)
 
 ---
 
 ## License
 
-MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-> **¿Prefieres Español?**  
-> [README (Español)](README_es.md)
+> *"To educate is to plant curiosity. To manage systems is to maintain the infrastructure where that curiosity can grow."*
+
+---
+
+If you’d like, I can also provide a version of this file ready to upload as `README.md` or assist you in formatting it properly in your GitHub repository.
