@@ -1,107 +1,110 @@
-# 🚀 multix20 – Sysadmin & Full Stack Developer Portfolio
+🚀 multix20 – Sysadmin & Full Stack Developer Portfolio
 
-[![Platform: Red Hat](https://img.shields.io/badge/Platform-Red%20Hat-E6001F?logo=redhat)](https://www.redhat.com/)
-[![Focus: Ubuntu Server](https://img.shields.io/badge/Focus-Ubuntu%20Server-orange?logo=ubuntu)](https://ubuntu.com/)
-[![Automation: Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?logo=ansible)](https://www.ansible.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
----
 
-## 👤 About Me
 
-**Juan Pablo Monsalve Suazo**
-📚 *Primary School Teacher* | 💻 *Full Stack Developer (JS)* | 🐧 *Self-taught Linux SysAdmin*
 
-I'm a passionate educator and tech enthusiast from Chile, blending classroom experience with modern IT practices. After completing a full stack bootcamp focused on **JavaScript**, I've deepened my skills in **Linux server administration**, particularly with **Ubuntu Server**, and I’m on track toward specialization in **Red Hat Enterprise Linux**.
+👤 About Me
+Juan Pablo Monsalve Suazo
+📚 Primary School Teacher | 💻 Full Stack Developer (JS) | 🐧 Self-taught Linux SysAdmin
 
-💡 I believe in **technology with purpose**, especially when applied to education, automation, and open knowledge.
+Passionate about blending education, development, and open-source infrastructure. Currently focused on building solid foundations in:
 
----
+✔️ Ubuntu Server
+✔️ Secure SSH configurations
+✔️ Linux hardening for practical environments
+✔️ Preparation for Red Hat certification
 
-## 🌟 Highlights
+💡 I believe technology empowers education, automation, and freedom.
 
-🔧 **Ubuntu Server Deployment Toolkit**
-Scripts & best practices for building stable, functional servers for learning or production.
+🌟 Practical Server Configuration Log
+My most recent Ubuntu Server setup (Virtual Machine, 2025):
 
-🛠️ **Ansible Automation**
-Reusable playbooks to automate installations, services, and provisioning tasks.
+✅ Installed Ubuntu Server 24.04 LTS
+✅ Configured static IP for stability:
 
-📡 **PXE Boot & Syslinux Exploration**
-First steps toward remote network boot environments using Syslinux and PXE.
+text
+Copiar código
+192.168.0.11/24 via Netplan
+✅ Hardened SSH Access:
 
----
+Custom SSH port 2222
 
-## 📁 Featured Projects
+Disabled root login
 
-| Project                                                                          | Description                                                                           |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [`ubuntu-server-setup`](https://github.com/multix20/ubuntu-server-setup)         | 🧰 A quick-start Ubuntu server provisioning script with SSH, UFW, users, and updates. |
-| [`ansible-educational-lab`](https://github.com/multix20/ansible-educational-lab) | 📘 Ansible playbooks for automating lightweight educational server setups.            |
-| [`linux-hardening-basics`](https://github.com/multix20/linux-hardening-basics)   | 🛡️ A checklist and basic scripts to secure a Linux server — ideal for beginners.     |
+Disabled password authentication
 
----
+Enabled only SSH key-based access
 
-## 🛠️ Technical Stack
+Firewall (UFW) configured to allow only port 2222
 
-### 🧑‍💻 **Development**
+✅ Created backup admin user with sudo privileges for safe recovery:
 
-* `HTML` • `CSS` • `JavaScript` • `React`
-* `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL`
+bash
+Copiar código
+sudo adduser respaldo
+sudo usermod -aG sudo respaldo
+✅ Verified secure, key-only SSH login for all admin users.
 
-### 🐧 **Linux Administration**
+✅ Kept both IPv4 and IPv6 connectivity operational.
 
-* Ubuntu Server (🟠)
-* CLI proficiency, system services, and remote configuration
-* Basic security hardening & shell scripting (🖥️)
+📁 Featured Projects
+Project	Description
+ubuntu-server-setup	🧰 Quick-start provisioning script for secure Ubuntu servers.
+ansible-educational-lab	📘 Ansible playbooks for educational or lab deployments.
+linux-hardening-basics	🛡️ Simple scripts and guidelines for securing Linux systems.
 
-### 🤖 **Automation & Tools**
+🛠️ Technical Stack
+🧑‍💻 Development
+HTML • CSS • JavaScript • React
 
-* Ansible (🔁)
-* Bash Scripting (📝)
-* Git & GitHub (🔧)
-* PXE & Syslinux (🌐)
+Node.js • Express.js • MongoDB • PostgreSQL
 
----
+🐧 Linux Administration
+Ubuntu Server 24.04 (production ready)
 
-## 🎓 Education & Learning Path
+Static networking with Netplan
 
-* 👨‍🏫 **Degree in Primary Education**
-* 🎓 **Full Stack JavaScript Bootcamp – Desafío Latam**
-* 📚 **Self-taught Linux system administration**
-* 🔜 Currently preparing for **Red Hat Certification (RHCSA)**
+SSH security: port change, key-only, no root
 
----
+User management and permissions
 
-## 📬 Contact
+CLI, services, and remote management
 
-| Platform    | Link                                                                                          |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| 🔗 GitHub   | [github.com/multix20](https://github.com/multix20)                                            |
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) *(update this link)* |
-| ✉️ Email    | [jp.devtravel@gmail.com](mailto:jp.devtravel@gmail.com)                                       |
+🤖 Automation & Tools
+Ansible (server automation)
 
----
+Bash scripting
 
-## 📄 License
+Git & GitHub workflows
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+PXE Boot & Syslinux (initial exploration)
 
----
+🎓 Education & Certifications
+🎓 Primary Education Degree
 
-> *"To educate is to plant curiosity. To manage systems is to maintain the infrastructure where that curiosity can grow."* 🌱🖥️
+🖥️ Full Stack JavaScript Bootcamp (Desafío Latam)
 
----
+🐧 Self-taught Linux Administration
 
-### ✅ Optional Improvements:
+🔜 Preparing for Red Hat Certified System Administrator (RHCSA)
 
-Si deseas, puedes añadir:
+📬 Contact
+Platform	Link
+🔗 GitHub	github.com/multix20
+💼 LinkedIn	linkedin.com/in/your-profile (update this link)
+✉️ Email	jp.devtravel@gmail.com
 
-* Una **imagen de cabecera** tipo banner usando Markdown:
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-  ```markdown
-  ![Banner](./assets/banner.png)
-  ```
-* Un **diagrama de stack** en Mermaid o imagen SVG.
-* Un botón de contacto directo a LinkedIn o email.
+"Configuring servers is like teaching—establish structure, security, and allow growth." 🌱💻
 
-¿Te gustaría que lo prepare también con ese banner y botones, o prefieres mantenerlo simple por ahora?
+✅ Próximos Pasos Documentados
+Automatizar configuraciones con Ansible
+
+Configurar snapshots o backups de la máquina virtual
+
+Aprender NGINX/Apache deployment
+
+Continuar preparación RHCSA
