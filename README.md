@@ -86,10 +86,10 @@ Aplicación del clima que consume APIs externas con interfaz moderna.
 ## 💼 Experiencia
 
 **🎯 Full Stack Developer** *(Proyectos Personales - 2024)*
-- Desarrollo de aplicaciones web completas usando el stack MERN
-- Implementación de APIs RESTful con autenticación JWT
-- Diseño responsivo y experiencia de usuario optimizada
-- Integración con bases de datos relacionales y no relacionales
+- Desarrollo de aplicaciones web con deployment en Netlify
+- Implementación de sitios responsivos y experiencia de usuario optimizada
+- Gestión de proyectos con CI/CD automático desde GitHub
+- **Portfolio activo:** [Dashboard Netlify](https://app.netlify.com/teams/multix20/projects)
 
 **👨‍🏫 Docente de Educación Básica** *(2018 - Presente)*
 - Integración de tecnología en procesos educativos
