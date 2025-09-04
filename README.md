@@ -44,6 +44,36 @@ Desarrollador Full Stack con formación en educación y pasión por crear soluci
 
 ---
 
+## 🌟 Proyectos Destacados
+
+### 🛒 **E-commerce Full Stack**
+Una aplicación completa de comercio electrónico con autenticación, carrito de compras y panel administrativo.
+- **Frontend:** React, CSS3, Bootstrap
+- **Backend:** Node.js, Express.js, JWT
+- **Base de Datos:** MongoDB
+- **[Ver Proyecto →](https://github.com/multix20/ecommerce-fullstack)**
+
+### 📝 **Task Manager API**
+API REST para gestión de tareas con autenticación y CRUD completo.
+- **Tecnologías:** Node.js, Express.js, PostgreSQL
+- **Features:** Autenticación JWT, Validaciones, Documentación API
+- **[Ver Proyecto →](https://github.com/multix20/task-manager-api)**
+
+### 🎨 **Portfolio Web Responsivo**
+Mi portfolio personal desarrollado con tecnologías modernas y diseño responsivo.
+- **Tecnologías:** HTML5, CSS3, JavaScript vanilla
+- **Features:** Diseño responsivo, Animaciones CSS, Formulario de contacto
+- **[Ver Proyecto →](https://github.com/multix20/portfolio-web)**
+
+### 🌤️ **Weather App**
+Aplicación del clima que consume APIs externas con interfaz moderna.
+- **Frontend:** React, CSS Modules
+- **API:** OpenWeatherMap
+- **Features:** Geolocalización, Pronóstico extendido
+- **[Ver Proyecto →](https://github.com/multix20/weather-react-app)**
+
+---
+
 ## 🎓 Formación & Certificaciones
 
 - 🎓 **Título de Educación General Básica** - Universidad
