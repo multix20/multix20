@@ -1,110 +1,135 @@
-🚀 multix20 – Sysadmin & Full Stack Developer Portfolio
+# 👋 ¡Hola! Soy Juan Pablo Monsalve
 
+## 🚀 Full Stack JavaScript Developer | 📚 Educador | 💻 Apasionado por la Tecnología
 
+Desarrollador Full Stack con formación en educación y pasión por crear soluciones web innovadoras. Me especializo en el ecosistema JavaScript y disfruto construyendo aplicaciones completas desde el frontend hasta el backend.
 
+---
 
+## 🛠️ Stack Tecnológico
 
-👤 About Me
-Juan Pablo Monsalve Suazo
-📚 Primary School Teacher | 💻 Full Stack Developer (JS) | 🐧 Self-taught Linux SysAdmin
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Passionate about blending education, development, and open-source infrastructure. Currently focused on building solid foundations in:
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-✔️ Ubuntu Server
-✔️ Secure SSH configurations
-✔️ Linux hardening for practical environments
-✔️ Preparation for Red Hat certification
+### Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-💡 I believe technology empowers education, automation, and freedom.
+### Herramientas & Otros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🌟 Practical Server Configuration Log
-My most recent Ubuntu Server setup (Virtual Machine, 2025):
+---
 
-✅ Installed Ubuntu Server 24.04 LTS
-✅ Configured static IP for stability:
+## 📈 GitHub Stats
 
-text
-Copiar código
-192.168.0.11/24 via Netplan
-✅ Hardened SSH Access:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=multix20&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-Custom SSH port 2222
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multix20&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-Disabled root login
+---
 
-Disabled password authentication
+## 🌟 Proyectos Destacados
 
-Enabled only SSH key-based access
+### 🛒 **E-commerce Full Stack**
+Una aplicación completa de comercio electrónico con autenticación, carrito de compras y panel administrativo.
+- **Frontend:** React, CSS3, Bootstrap
+- **Backend:** Node.js, Express.js, JWT
+- **Base de Datos:** MongoDB
+- **[Ver Proyecto →](https://github.com/multix20/ecommerce-fullstack)**
 
-Firewall (UFW) configured to allow only port 2222
+### 📝 **Task Manager API**
+API REST para gestión de tareas con autenticación y CRUD completo.
+- **Tecnologías:** Node.js, Express.js, PostgreSQL
+- **Features:** Autenticación JWT, Validaciones, Documentación API
+- **[Ver Proyecto →](https://github.com/multix20/task-manager-api)**
 
-✅ Created backup admin user with sudo privileges for safe recovery:
+### 🎨 **Portfolio Web Responsivo**
+Mi portfolio personal desarrollado con tecnologías modernas y diseño responsivo.
+- **Tecnologías:** HTML5, CSS3, JavaScript vanilla
+- **Features:** Diseño responsivo, Animaciones CSS, Formulario de contacto
+- **[Ver Proyecto →](https://github.com/multix20/portfolio-web)**
 
-bash
-Copiar código
-sudo adduser respaldo
-sudo usermod -aG sudo respaldo
-✅ Verified secure, key-only SSH login for all admin users.
+### 🌤️ **Weather App**
+Aplicación del clima que consume APIs externas con interfaz moderna.
+- **Frontend:** React, CSS Modules
+- **API:** OpenWeatherMap
+- **Features:** Geolocalización, Pronóstico extendido
+- **[Ver Proyecto →](https://github.com/multix20/weather-react-app)**
 
-✅ Kept both IPv4 and IPv6 connectivity operational.
+---
 
-📁 Featured Projects
-Project	Description
-ubuntu-server-setup	🧰 Quick-start provisioning script for secure Ubuntu servers.
-ansible-educational-lab	📘 Ansible playbooks for educational or lab deployments.
-linux-hardening-basics	🛡️ Simple scripts and guidelines for securing Linux systems.
+## 🎓 Formación & Certificaciones
 
-🛠️ Technical Stack
-🧑‍💻 Development
-HTML • CSS • JavaScript • React
+- 🎓 **Título de Educación General Básica** - Universidad
+- 💻 **Bootcamp Full Stack JavaScript** - Desafío Latam (2024)
+- 🏆 **Proyectos prácticos:** +10 aplicaciones web desarrolladas
+- 📚 **Autodidacta en:** Linux, Docker, DevOps
 
-Node.js • Express.js • MongoDB • PostgreSQL
+---
 
-🐧 Linux Administration
-Ubuntu Server 24.04 (production ready)
+## 💼 Experiencia
 
-Static networking with Netplan
+**🎯 Full Stack Developer** *(Proyectos Personales - 2024)*
+- Desarrollo de aplicaciones web completas usando el stack MERN
+- Implementación de APIs RESTful con autenticación JWT
+- Diseño responsivo y experiencia de usuario optimizada
+- Integración con bases de datos relacionales y no relacionales
 
-SSH security: port change, key-only, no root
+**👨‍🏫 Docente de Educación Básica** *(2018 - Presente)*
+- Integración de tecnología en procesos educativos
+- Desarrollo de habilidades de comunicación y trabajo en equipo
+- Resolución creativa de problemas y adaptabilidad
 
-User management and permissions
+---
 
-CLI, services, and remote management
+## 📊 Actividad de Desarrollo
 
-🤖 Automation & Tools
-Ansible (server automation)
+<!--START_SECTION:activity-->
+📈 **Últimas contribuciones:**
+- 🔨 Trabajando en mejoras del e-commerce fullstack
+- 📝 Documentando APIs desarrolladas
+- 🚀 Experimentando con nuevas tecnologías React
+- 🎯 Preparando proyectos para portfolio
+<!--END_SECTION:activity-->
 
-Bash scripting
+---
 
-Git & GitHub workflows
+## 🤝 ¡Conectemos!
 
-PXE Boot & Syslinux (initial exploration)
+¿Tienes un proyecto interesante? ¡Me encantaría colaborar!
 
-🎓 Education & Certifications
-🎓 Primary Education Degree
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.devtravel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/multix20)
 
-🖥️ Full Stack JavaScript Bootcamp (Desafío Latam)
+---
 
-🐧 Self-taught Linux Administration
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=multix20&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Contador de visitas" />
+</div>
 
-🔜 Preparing for Red Hat Certified System Administrator (RHCSA)
+<div align="center">
+  
+*"El código es poesía escrita para las máquinas, pero leída por humanos"* 💻✨
 
-📬 Contact
-Platform	Link
-🔗 GitHub	github.com/multix20
-💼 LinkedIn	linkedin.com/in/your-profile (update this link)
-✉️ Email	jp.devtravel@gmail.com
+</div>
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
 
-"Configuring servers is like teaching—establish structure, security, and allow growth." 🌱💻
-
-✅ Próximos Pasos Documentados
-Automatizar configuraciones con Ansible
-
-Configurar snapshots o backups de la máquina virtual
-
-Aprender NGINX/Apache deployment
-
-Continuar preparación RHCSA
+⭐ **¿Te gusta mi trabajo?** ¡No olvides darle star a mis repositorios!
